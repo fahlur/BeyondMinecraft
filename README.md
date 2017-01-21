@@ -1,2 +1,2 @@
-[[http://i.imgur.com/eq0bDDL.png|alt=BeyondMinecraft|alt=BeyondMinecraft]]
+#4BeyondMinecraft
 Increasingly dificult monecraft
