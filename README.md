@@ -1,2 +1,2 @@
-# VariableMinecraft
+# BeyondMinecraft
 Increasingly dificult monecraft
