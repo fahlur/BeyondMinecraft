@@ -1,1 +1,61 @@
-Coming Later!
+############################################################
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+############################################################
+# Please read all the comments provided.                   #
+# If you have any questions, please refer to the BeyondMC  #
+# wiki first!                                              #
+# https://github.com/fahlur/BeyondMinecraft/wiki           #
+############################################################
+
+# Angry Wolves spawn chance in percent chance (0 - 100)
+AngryWolves: 10
+
+# Percent chance that mining quartz in the nether will result in an explosion (0 - 100)
+ExplodingQuartz: 3
+
+# Percent chance that a creeper will spawn in the nether (0 - 100)
+NetherCreeperSpawn: 4
+
+# Percent chance tjhat the creeper that spawned in the nether is powered (0 - 100)
+NetherPoweredCreeperSpawn: 15
+
+# Percent chance that a custom fire bat will spawn (0 - 100)
+NetherBatSpawn: 5
+
+# Percent chance that a custom special wither skeleton will spawn
+SpecialWitherSkeletonSpawn: 25
+
+# Percent chance that a special wither skeleton will be a thief
+ThiefSkeletonChance: 15
+
+############################################################
+# +------------------------------------------------------+ #
+# |                  Creeper on Fire                     | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Size of creepers explosion (4 = tnt)
+ExplosionSize: 6
+
+############################################################
+# +------------------------------------------------------+ #
+# |                   GREEN THUMB                        | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Percent chance that a wooden hoe will yield additional Seeds/Crops
+WoodenHoeChance: 1
+
+# Percent chance that a stone hoe will yield additional Seeds/Crops
+StoneHoeChance: 5
+
+# Percent chance that a iron hoe will yield additional Seeds/Crops
+IronHoeChance: 15
+
+# Percent chance that a golden hoe will yield additional Seeds/Crops
+GoldenHoeChance: 25
+
+# Percent chance that a diamond hoe will yield additional Seeds/Crops
+DiamondHoeChance: 35
