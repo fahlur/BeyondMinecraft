@@ -39,6 +39,24 @@ ThiefSkeletonChance: 15
 # Size of creepers explosion (4 = tnt)
 ExplosionSize: 6
 
+
+############################################################
+# +------------------------------------------------------+ #
+# |                  Custom Drop Chance                  | #
+# +------------------------------------------------------+ #
+############################################################
+
+###------------Drop chances are (0-100) % chance---------###
+
+# Silverfish irong nugget drop chance (default 45)
+Silverfish-DropChance: 45
+
+# Endermite enderpearl drop chance (default 45)
+Endermite-DropChance: 45
+
+# Giant blue wool drop chance (default 75)
+Giant-DropChance: 75
+
 ############################################################
 # +------------------------------------------------------+ #
 # |                   GREEN THUMB                        | #
