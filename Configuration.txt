@@ -9,9 +9,6 @@
 # https://github.com/fahlur/BeyondMinecraft/wiki           #
 ############################################################
 
-# Angry Wolves spawn chance in percent chance (0 - 100)
-AngryWolves: 10
-
 # Percent chance that mining quartz in the nether will result in an explosion (0 - 100)
 ExplodingQuartz: 3
 
@@ -24,11 +21,17 @@ NetherPoweredCreeperSpawn: 15
 # Percent chance that a custom fire bat will spawn (0 - 100)
 NetherBatSpawn: 5
 
-# Percent chance that a custom special wither skeleton will spawn
+# Percent chance that a custom special wither skeleton will spawn (0 - 100)
 SpecialWitherSkeletonSpawn: 25
 
-# Percent chance that a special wither skeleton will be a thief
-ThiefSkeletonChance: 15
+# Percent chance that a skeleton will be a thief (0 - 100)
+ThiefSkeletonChance: 10
+
+# Percent chance that a Shulker will spawn in the overworld in place of a enderman (0 - 100)
+ShulkerSpawn: 4
+
+# Percent chance that a mob drops a head (Not Wither Skeletons) (0 - 100)
+HeadDropChance: 4
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -54,9 +57,6 @@ Silverfish-DropChance: 45
 # Endermite enderpearl drop chance (default 45)
 Endermite-DropChance: 45
 
-# Giant blue wool drop chance (default 75)
-Giant-DropChance: 75
-
 ############################################################
 # +------------------------------------------------------+ #
 # |                   GREEN THUMB                        | #
@@ -77,3 +77,29 @@ GoldenHoeChance: 25
 
 # Percent chance that a diamond hoe will yield additional Seeds/Crops
 DiamondHoeChance: 35
+
+
+############################################################
+# +------------------------------------------------------+ #
+# |               Custom World Gen Spawner               | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Percent chance that a Creeper spawner will spawn
+CreeperSpawner: 2
+
+# Percent chance that a Blaze spawner will spawn
+BlazeSpawner: 1
+
+# Percent chance that a Enderman spawner will spawn
+EndermanSpawner: 2
+
+# Percent chance that a Witch spawner will spawn
+WitchSpawner: 2
+
+# Percent chance that a Zombie Pigmen spawner will spawn
+ZombieVillagerSpawner: 1
+
+# Percent chance that a Wither Skeleton spawner will spawn
+WitherSkeletonSpawner: 1
+
