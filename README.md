@@ -1,2 +1,2 @@
 #BeyondMinecraft
-Increasingly dificult monecraft
+Increasingly dificult minecraft
